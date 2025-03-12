@@ -1,1 +1,1 @@
-Chef Application for Finland client
+User Application for Finland client of Food Application
